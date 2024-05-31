@@ -1,2 +1,3 @@
 # demo
-first git repository
+first git repositoryanav Pawar
+Author: Pranav Pawar
